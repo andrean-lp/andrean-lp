@@ -29,7 +29,6 @@
 ### 💻 Tech Stack & Spesialisasi
 
 <p align="left">
-  <!-- Core Skills -->
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Astro%20JS-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -43,7 +42,7 @@
 
 ### 🌟 Proyek Unggulan
 
-- 🏛️ **[ayo-seo](https://github.com/andrean-lp/ayo-seo)** — Open-source Senior SEO AI Agent untuk Antigravity: riset E-E-A-T, arsitektur pilar-cluster, optimasi GEO/AEO, dan standar konten people-first Google.
+- 🏛️ **[ayo-seo](https://github.com/andrean-lp/ayo-seo)** — Open-source Senior SEO AI Agent untuk Antigravity: riset E-E-A-T mendalam, arsitektur pilar-cluster, optimasi GEO/AEO, dan konten people-first ramah Google.
 - 📱 **[storiq](https://github.com/andrean-lp/storiq)** — Content Repurposing Engine berbasis storytelling: ubah 1 artikel blog menjadi Carousel 3D Clay, caption media sosial, script video, dan infografis.
 - 🛠️ **[SiloCraft](https://andrean.web.id/topical-authority-generator)** — Generator Topical Authority & Content Silo otomatis di website resmi.
 
@@ -54,7 +53,7 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrean-lp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik Andre" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=andrean-lp&theme=tokyonight&hide_border=true" alt="GitHub Streak Andre" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrean-lp&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer" width="40%" />
 </p>
 
