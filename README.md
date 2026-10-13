@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrean--lp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrean-lp)
 [![YouTube](https://img.shields.io/badge/YouTube-@andrean__lp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@andrean_lp)
 [![Instagram](https://img.shields.io/badge/Instagram-@andrean.lp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrean.lp/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-@andrean__lp-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/andrean_lp/)
 
 <p align="center">
   <em>"Medsos itu sewa, website itu aset milikmu sendiri."</em><br>
@@ -42,9 +43,9 @@
 
 ### 🌟 Proyek Unggulan
 
-- 🏛️ **[ayo-seo](https://github.com/andrean-lp/ayo-seo)** — Open-source Senior SEO AI Agent untuk Antigravity: riset E-E-A-T mendalam, arsitektur pilar-cluster, optimasi GEO/AEO, dan konten people-first ramah Google.
-- 📱 **[storiq](https://github.com/andrean-lp/storiq)** — Content Repurposing Engine berbasis storytelling: ubah 1 artikel blog menjadi Carousel 3D Clay, caption media sosial, script video, dan infografis.
-- 🛠️ **[SiloCraft](https://andrean.web.id/topical-authority-generator)** — Generator Topical Authority & Content Silo otomatis di website resmi.
+- 🏛️ **[ayo-seo](https://github.com/andrean-lp/ayo-seo)** - Open-source Senior SEO AI Agent untuk Antigravity: riset E-E-A-T mendalam, arsitektur pilar-cluster, optimasi GEO/AEO, dan konten people-first ramah Google.
+- 📱 **[storiq](https://github.com/andrean-lp/storiq)** - Content Repurposing Engine berbasis storytelling: ubah 1 artikel blog menjadi Carousel 3D Clay, caption media sosial, script video, dan infografis.
+- 🛠️ **[SiloCraft](https://andrean.web.id/topical-authority-generator)** - Generator Topical Authority & Content Silo otomatis di website resmi.
 
 ---
 
